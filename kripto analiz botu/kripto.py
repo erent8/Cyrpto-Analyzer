@@ -6,7 +6,7 @@
 # import matplotlib.pyplot as plt
 
 # def fetch_price(coin_id):
-#     url = f"https://api.coingecko.com/api/v3/simple/price?ids={coin_id}&vs_currencies=usd"
+#     url = f"YOUR_API_KEY"
 #     response = requests.get(url)
 #     if response.status_code == 200:
 #         data = response.json()
@@ -77,7 +77,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 def fetch_price(coin_id):
-    url = f"https://api.coingecko.com/api/v3/simple/price?ids={coin_id}&vs_currencies=usd"
+    url = f"YOUR_API_KEY"
     response = requests.get(url)
     if response.status_code == 200:
         data = response.json()
