@@ -61,5 +61,7 @@ if __name__ == "__main__":
         'XRP': 'ripple'
     }
     to_email = 'recipient-email@example.com'  # Alıcı e-posta adresi
-    track_and_notify(coin_ids, to_email)   
+    track_and_notify(coin_ids, to_email) 
+
+#Eren Terzi  
   
