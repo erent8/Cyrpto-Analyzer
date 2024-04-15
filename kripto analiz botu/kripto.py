@@ -62,3 +62,4 @@ if __name__ == "__main__":
     }
     to_email = 'recipient-email@example.com'  # Alıcı e-posta adresi
     track_and_notify(coin_ids, to_email)   
+  
