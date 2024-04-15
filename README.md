@@ -29,3 +29,4 @@ Contributions are welcome! If you have ideas for improvements or encounter an is
 ## Output
 
 ![Ekran görüntüsü 2024-04-15 014053](https://github.com/erent8/Cyrpto-Analyzer/assets/86615310/f079a9a6-73af-487d-a109-b8c73205dbab)
+ 
