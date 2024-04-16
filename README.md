@@ -4,7 +4,7 @@ This Python project fetches and tracks cryptocurrency prices using the CoinGecko
 fluctuations in near real-time.
 
 
-## Features
+## Features 
 Data Fetching: Retrieves current prices of cryptocurrencies like Bitcoin, Ethereum, and others from the CoinGecko API.
 Price Tracking: Tracks price changes at five-minute intervals over a 30-minute period.
 Data Visualization: Plots the price data on a time series graph, highlighting percentage changes and visually indicating price increases or decreases.
